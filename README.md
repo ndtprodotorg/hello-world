@@ -2,4 +2,4 @@
 Just another repository
 
 # About me
-I am a college student of Standford University.
+I am a college student of Stanford University.
